@@ -1,0 +1,11 @@
+name: ZZZ-TORSE-TEP
+ID: 0000000
+
+
+Volume ROIs:
+
+External: 12 211.84 cm3
+lesion 1: 27.69 cm3
+lesion 2: 28.21 cm3
+lesion 3: 20.54 cm3
+poumons: 409.88 cm3
