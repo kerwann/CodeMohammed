@@ -1,0 +1,37 @@
+!INTERFILE := 
+!imaging modality := SPECT
+!version of keys := 3.3
+CASToR version := 3.0.1
+
+!GENERAL DATA := 
+!originating system := SPECT_GE_D670
+!data offset in bytes := 0
+!name of data file := img_scatterSuppressedInSgAndAtt_it20.img
+patient name := img_scatterSuppressedInSgAndAtt_it20
+
+!GENERAL IMAGE DATA 
+!type of data := Dynamic
+!total number of images := 80
+imagedata byte order := LITTLEENDIAN
+!number of frame groups :=1 
+process status := 
+
+!SPECT STUDY (General) :=
+
+!SPECT STUDY ( data) :=
+number of dimensions := 3
+!matrix size [1] := 128
+!matrix size [2] := 128
+!matrix size [3] := 80
+!number format := short float
+!number of bytes per pixel := 4
+scaling factor (mm/pixel) [1] := 4.41816
+scaling factor (mm/pixel) [2] := 4.41816
+scaling factor (mm/pixel) [3] := 4.41816
+first pixel offset (mm) [1] := 0
+first pixel offset (mm) [2] := 0
+first pixel offset (mm) [3] := 0
+data rescale offset := 0
+data rescale slope := 1
+quantification units := 1
+!END OF INTERFILE := 
